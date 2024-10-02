@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Debug Ruby",
+        "type": "ruby-debug",
+        "request": "launch",
+        "program": "${file}",
+        "useBundler": true
+      }
+    ]
+  }
+  
